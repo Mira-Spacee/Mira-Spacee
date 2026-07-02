@@ -38,7 +38,7 @@
   <tr>
     <td width="60%" valign="top">
 
-I am a **Computer Engineer, Robotics Specialist, and AI Systems Builder** based in **Sulaymaniyah, Kurdistan, Iraq 🇮🇶**.
+I am a **Computer Engineer, Robotics Specialist, and AI Systems Builder** based in **Sulaymaniyah, Kurdistan, Iraq **.
 
 My technical work is centered on building practical and intelligent systems across:
 
